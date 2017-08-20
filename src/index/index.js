@@ -1,1 +1,2 @@
-console.log('我是index.js');
+require('./index.css');
+console.log('我是index.js5');
